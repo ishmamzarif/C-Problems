@@ -10,7 +10,7 @@ int main (void) {
     n /= 10;
 
     r = (n % 10);
-    if (r > max && r != max) {
+    if (r > max) {
         max2 = max;
         max = r;
     }
@@ -20,7 +20,7 @@ int main (void) {
     n /= 10;
 
     r = (n % 10);
-    if (r > max && r != max) {
+    if (r > max) {
         max2 = max;
         max = r;
     }
@@ -30,7 +30,7 @@ int main (void) {
     n /= 10;
 
     r = (n % 10);
-    if (r > max && r != max) {
+    if (r > max) {
         max2 = max;
         max = r;
     }
