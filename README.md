@@ -1,4 +1,4 @@
 # C-Problems
 
 
-**some random problems on my device**
+**just a personal collection of some problems to access later**
